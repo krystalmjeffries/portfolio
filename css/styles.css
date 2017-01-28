@@ -29,8 +29,6 @@
   height: 100%;
 }
 
-.lily {
-  max-width: 100px;
-  max-height: auto;
+.contactinfo {
   float: right;
 }
