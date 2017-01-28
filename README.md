@@ -1,6 +1,7 @@
 # _Krystal's Portfolio Landing Page_
 
 #### _This is my portfolio webpage._
+https://krystalmjeffries.github.io/portfolio/
 
 #### By _**Krystal Jeffries**_
 
@@ -10,7 +11,7 @@ _My page provides information about me, links to my GitHub projects, and my cont
 
 ## Setup/Installation Requirements
 
-* Clone project from GitHub
+* Clone project from GitHub at https://github.com/krystalmjeffries/portfolio
 * Open index.html
 
 ## Known Bugs
